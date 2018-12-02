@@ -1,0 +1,24 @@
+
+#wrapper {
+  position: relative;
+  top: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#inputText {
+  width: 400px;
+  height: 50px;
+  text-align: center; 
+  font-size: 18px;
+  color: dodgerblue;
+}
+
+#alert {
+  background: #a54840;
+  color: azure;
+}
+
+#text {
+  color: rgba(0, 0, 0, 1);
+}
