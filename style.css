@@ -12,13 +12,11 @@
   text-align: center; 
   font-size: 18px;
   color: dodgerblue;
+  border-radius: 30px;
+  border: solid gray 1px;
 }
 
 #alert {
   background: #a54840;
   color: azure;
-}
-
-#text {
-  color: rgba(0, 0, 0, 1);
 }
